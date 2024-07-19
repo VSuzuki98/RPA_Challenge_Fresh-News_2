@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/VICTOR/Documents/Robocorp/RPA_Challenge_Fresh-News_2/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
